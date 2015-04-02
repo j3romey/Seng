@@ -1,0 +1,15 @@
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Scripts\bin\Debug\D5_Scripts.exe.config
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Scripts\bin\Debug\D5_Scripts.exe
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Scripts\bin\Debug\D5_Scripts.pdb
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Scripts\obj\Debug\D5_Scripts.csprojResolveAssemblyReference.cache
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Scripts\obj\Debug\D5_Scripts.exe
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Scripts\obj\Debug\D5_Scripts.pdb
+E:\D5_Scripts\D5_Scripts\bin\Debug\D5_Scripts.exe.config
+E:\D5_Scripts\D5_Scripts\obj\Debug\D5_Scripts.exe
+E:\D5_Scripts\D5_Scripts\obj\Debug\D5_Scripts.pdb
+E:\D5_Scripts\D5_Scripts\obj\Debug\D5_Scripts.csprojResolveAssemblyReference.cache
+E:\D5_Scripts\D5_Scripts\bin\Debug\D5_Scripts.exe
+E:\D5_Scripts\D5_Scripts\bin\Debug\D5_Scripts.pdb
+F:\D5_Scripts\D5_Scripts\bin\Debug\D5_Scripts.exe.config
+F:\D5_Scripts\D5_Scripts\obj\Debug\D5_Scripts.exe
+F:\D5_Scripts\D5_Scripts\obj\Debug\D5_Scripts.pdb

@@ -1,0 +1,14 @@
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Test\bin\Debug\D5_Test.dll
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Test\bin\Debug\D5_Test.pdb
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Test\bin\Debug\D5_Scripts.exe
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Test\bin\Debug\D5_Scripts.pdb
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Test\obj\Debug\D5_Test.csprojResolveAssemblyReference.cache
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Test\obj\Debug\D5_Test.dll
+C:\Users\Jeromes computer\Desktop\D5_Scripts\D5_Test\obj\Debug\D5_Test.pdb
+E:\D5_Scripts\D5_Test\bin\Debug\D5_Test.dll
+E:\D5_Scripts\D5_Test\bin\Debug\D5_Test.pdb
+E:\D5_Scripts\D5_Test\bin\Debug\D5_Scripts.exe
+E:\D5_Scripts\D5_Test\bin\Debug\D5_Scripts.pdb
+E:\D5_Scripts\D5_Test\obj\Debug\D5_Test.csprojResolveAssemblyReference.cache
+E:\D5_Scripts\D5_Test\obj\Debug\D5_Test.dll
+E:\D5_Scripts\D5_Test\obj\Debug\D5_Test.pdb
